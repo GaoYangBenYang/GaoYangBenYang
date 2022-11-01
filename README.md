@@ -12,13 +12,13 @@
 <h3 align="left">Operating statistics:</h3>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaoyangbenyang&show_icons=true&locale=cn&hide_border=true&hide_title=true&include_all_commits=true" alt="gaoyangbenyang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaoyangbenyang&show_icons=true&locale=cn&hide_border=true&hide_title=true&include_all_commits=true&theme=panda" alt="gaoyangbenyang" />
 </p>
 
 <h3 align="left">Language statistics:</h3>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaoyangbenyang&show_icons=true&locale=en&layout=compact&hide_title=true" alt="gaoyangbenyang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaoyangbenyang&show_icons=true&locale=en&hide_border=true&layout=compact&hide_title=true&theme=panda" alt="gaoyangbenyang" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
