@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaoyangbenyang&label=Profile%20views&color=0e75b6&style=flat" alt="gaoyangbenyang" /> </p>
 
-- 🌱 I’m currently learning **Go,Beego,Docker,kubernetes**
+- 🌱 I’m currently learning **Go,Gin,Docker,kubernetes**
 
 - 📝 I regularly write articles on [gaoyangbenyang.github.io](gaoyangbenyang.github.io)
 
