@@ -20,7 +20,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaoyangbenyang&show_icons=true&locale=en&hide_border=true&layout=compact&hide_title=true&theme=panda" alt="gaoyangbenyang" />
 </p>
 
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Languages:</h3>
 
 <p align="left">
   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
