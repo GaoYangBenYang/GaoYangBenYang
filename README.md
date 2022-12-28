@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm GaoYang</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=10D784DA&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+GaoYang" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaoyangbenyang&label=Profile%20views&color=0e75b6&style=flat" alt="gaoyangbenyang" /> </p>
 
@@ -13,6 +16,10 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaoyangbenyang&show_icons=true&locale=cn&hide_border=true&hide_title=true&include_all_commits=true&theme=panda" alt="gaoyangbenyang" />
 </p>
+
+<h3 align="left">Contribution punch:</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GaoYangBenYang&theme=vue-dark&hide_border=true&border_radius=4&locale=zh_Hans)](https://git.io/streak-stats)
 
 <h3 align="left">Language statistics:</h3>
 
