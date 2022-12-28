@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaoyangbenyang&show_icons=true&locale=cn&hide_border=true&hide_title=true&include_all_commits=true&theme=panda" alt="gaoyangbenyang" />
 </p>
 
-<h3 align="left">Contribution punch:</h3>
+<h3 align="left">Contribution statistics:</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GaoYangBenYang&theme=vue-dark&hide_border=true&border_radius=4&locale=zh_Hans)](https://git.io/streak-stats)
 
