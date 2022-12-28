@@ -6,27 +6,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaoyangbenyang&label=Profile%20views&color=0e75b6&style=flat" alt="gaoyangbenyang" /> </p>
 
+## 🥱About me
+
 - 🌱 I’m currently learning **Go,Docker,kubernetes**
 
 - 📝 I regularly write articles on [gaoyangbenyang.github.io](gaoyangbenyang.github.io)
 
 - 📫 How to reach me **gaoyangbenyang@outlook.com**
 
-<h3 align="left">Operating statistics:</h3>
+## 📈Statistics
 
-<p>
+<div align="center">
+  <span>&emsp;&emsp;</span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaoyangbenyang&show_icons=true&locale=cn&hide_border=true&hide_title=true&include_all_commits=true&theme=panda" alt="gaoyangbenyang" />
-</p>
-
-<h3 align="left">Contribution statistics:</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GaoYangBenYang&theme=vue-dark&hide_border=true&border_radius=4&locale=zh_Hans)](https://git.io/streak-stats)
-
-<h3 align="left">Language statistics:</h3>
-
-<p>
+  <span>&emsp;&emsp;</span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaoyangbenyang&show_icons=true&locale=en&hide_border=true&layout=compact&hide_title=true&theme=panda" alt="gaoyangbenyang" />
-</p>
+  <span>&emsp;&emsp;</span>
+</div>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GaoYangBenYang&theme=vue-dark&hide_border=true&border_radius=4&locale=zh_Hans" />
+</div>
+
+## 🧑🏻‍🔧Language and tools
 
 <h3 align="left">Languages:</h3>
 
