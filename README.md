@@ -17,7 +17,7 @@
 ## 📈Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaoyangbenyang&show_icons=true&locale=cn&hide_border=true&hide_title=true&include_all_commits=true&theme=panda" alt="gaoyangbenyang" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaoyangbenyang&show_icons=true&locale=cn&hide_border=true&hide_title=true&include_all_commits=true&theme=vue-dark" alt="gaoyangbenyang" />
 </div>
  
 <div align="center">
@@ -25,7 +25,7 @@
 </div>
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaoyangbenyang&show_icons=true&locale=en&hide_border=true&layout=compact&hide_title=true&theme=panda" alt="gaoyangbenyang" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaoyangbenyang&show_icons=true&locale=en&hide_border=true&layout=compact&hide_title=true&theme=vue-dark" alt="gaoyangbenyang" />
 </div>
 
 ## 👨‍🔧Language and tools
