@@ -14,20 +14,6 @@
 
 - 📫 How to reach me **gaoyangbenyang@outlook.com**
 
-## 📈Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaoyangbenyang&show_icons=true&locale=cn&hide_border=true&hide_title=true&include_all_commits=true&theme=vue-dark" alt="gaoyangbenyang" />
-</div>
- 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaoYangBenYang&theme=vue-dark&hide_border=true&border_radius=4&locale=zh_Hans"     alt="gaoyangbenyang"/>
-</div>
- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaoyangbenyang&show_icons=true&locale=en&hide_border=true&layout=compact&hide_title=true&theme=vue-dark" alt="gaoyangbenyang" />
-</div>
-
 ## 👨‍🔧Language and tools
 
 <h3 align="left">Languages:</h3>
