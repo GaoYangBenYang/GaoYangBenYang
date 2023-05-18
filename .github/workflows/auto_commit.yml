@@ -2,7 +2,7 @@ name: auto commit and push to master branch
 
 on:
   schedule:
-    - cron: "20 17 * * *" #UTC每天0点
+    - cron: "32 1 * * *" #UTC每天0点
 #   push:
 #     branches:
 #       - master
