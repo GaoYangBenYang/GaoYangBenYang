@@ -1,1 +1,19 @@
+name: Auto Commit
 
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天0点定时执行
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Push
+      run: |
+        git config --global user.email "GaoYangBenYang@outlook.com"
+        git config --global user.name "GaoYang"
+        git add .
+        git commit -m "date 0:0:0 auto commit"
+        git push
