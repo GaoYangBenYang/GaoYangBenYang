@@ -2,7 +2,7 @@ name: auto commit and push to master branch
 
 on:
   schedule:
-    - cron: "40 18 * * *" #UTC每天0点
+    - cron: "0 0 * * *" #UTC每天0点,UTC+8每天8点
 
 jobs:
   build:
@@ -18,7 +18,7 @@ jobs:
       
       - name: update files
         run: |
-          echo "$(date)" >> update.go
+          echo "$(date)" >> auto_commit.md
      
       - name: Commit files
         run: |
