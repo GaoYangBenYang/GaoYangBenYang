@@ -2,7 +2,7 @@ name: Auto Commit
 
 on:
   schedule:
-    - cron: '5 1 * * *' # 每天0点定时执行
+    - cron: '10 9 * * *' # 每天0点定时执行
 
 jobs:
   push:
