@@ -2,10 +2,7 @@ name: auto commit and push to master branch
 
 on:
   schedule:
-    - cron: "35 17 * * *" #UTC每天0点
-#   push:
-#     branches:
-#       - master
+    - cron: "50 17 * * *" #UTC每天0点
 
 jobs:
   build:
@@ -18,15 +15,16 @@ jobs:
         run: |
           git config --global user.name 'GaoYang'
           git config --global user.email 'GaoYangBenYang@outlook.com'
-          
+      
+      - name: update files
+        run: |
+          echo "$(date)" >> README.md
+     
       - name: Commit files
         run: |
           git add .
           git commit -m "Auto commit at $(date +"%Y-%m-%d %T")"
           
       - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          branch: master
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          force: true
+        run: |
+          git push origin master
