@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=gaoyangbenyang&label=Profile%20views&color=0e75b6&style=flat" alt="gaoyangbenyang"/></p>
+<H3><img src="https://komarev.com/ghpvc/?username=gaoyangbenyang&label=Profile%20views&color=0e75b6&style=flat" alt="gaoyangbenyang"/></H3>
 
 # 👋 Hey friends!
 
