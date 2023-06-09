@@ -1,6 +1,6 @@
 <h1 align="center">
   <p>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=1000&pause=1000&color=10D784DA&center=true&vCenter=true&repeat=%E7%9C%9F&width=435&lines=%E4%B8%8D%E8%A6%81%E8%A2%AB%E6%8A%80%E6%9C%AF%E6%B5%AA%E6%BD%AE%E5%86%B2%E6%98%8F%E5%A4%B4%E8%84%91;Don't+be+overwhelmed+by+the+waves+of+technological+innovation" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=500&lines=%E4%B8%8D%E8%A6%81%E8%A2%AB%E6%8A%80%E6%9C%AF%E6%B5%AA%E6%BD%AE%E5%86%B2%E6%98%8F%E5%A4%B4%E8%84%91;Don't+be+overwhelmed+by+the+waves+of+technological+innovation" alt="Typing SVG" /></a>
   </p>
 </h1>
 
