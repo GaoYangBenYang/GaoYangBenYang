@@ -8,7 +8,7 @@
 
 ## 🥱About me
 
-- 🌱 I’m currently learning **Vue,Go,Rust,Docker,kubernetes**
+- 🌱 I’m currently learning **React,Go,Docker,kubernetes**
 
 - 📝 I regularly write articles on [gaoyangbenyang.github.io](gaoyangbenyang.github.io)
 
