@@ -5,12 +5,13 @@
 - 📚 I’m currently learning
 
 - 👨‍🔧 Professional skill
-- 
+  
     - ⚛️ React
     - 📜 TypeScript
     - 🦕 Deno
     - 🐹 Golang
     - 🐝 Gin & Gorm
+    - 📦 go-zero
     - 🌐 Nginx 
     - 📮 Kafka
     - 🔍 Redis
