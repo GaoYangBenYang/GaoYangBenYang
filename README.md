@@ -11,7 +11,7 @@
     - 🦕 Deno
     - 🐹 Golang
     - 🐝 Gin & Gorm
-    - 📦 go-zero
+    - 📦 Go-zero
     - 🌐 Nginx 
     - 📮 Kafka
     - 📈 MySQL
