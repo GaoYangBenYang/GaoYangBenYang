@@ -2,30 +2,24 @@
 
 # 👋 Hey friends!
 
-- 📚 I’m currently learning **React,Go,Docker,kubernetes**
+- 📚 I’m currently learning
 
 - 👨‍🔧 Professional skill
-  - 🎨 Front-end
+- 
     - ⚛️ React
     - 📜 TypeScript
     - 🦕 Deno
-  - 🚀 Back-end
-    - 🐹 Go
-    - 🐝 Beego
-  - 🔀 Middleware
+    - 🐹 Golang
+    - 🐝 Gin & Gorm
+    - 🌐 Nginx 
     - 📮 Kafka
     - 🔍 Redis
-    - 🌐 Nginx 
-  - 💾 Database
     - 📈 MySQL
     - 📊 ElasticSearch
-  - 🛠️ Tool
     - 🐳 Docker
     - 🕸️ Kubernetes
     - 🐙 Git
     - 🐧 Ubuntu
-
-- 📦 Project
 
 - 📝 I regularly write articles on [gaoyangbenyang.github.io](gaoyangbenyang.github.io)
 
