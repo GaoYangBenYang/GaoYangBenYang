@@ -14,8 +14,8 @@
     - 📦 go-zero
     - 🌐 Nginx 
     - 📮 Kafka
-    - 🔍 Redis
     - 📈 MySQL
+    - 🔍 Redis
     - 📊 ElasticSearch
     - 🐳 Docker
     - 🕸️ Kubernetes
