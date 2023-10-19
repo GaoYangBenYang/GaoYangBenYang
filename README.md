@@ -6,9 +6,8 @@
 
 - 👨‍🔧 Professional skill
   
-    - ⚛️ React
+    - 📄 Vue
     - 📜 TypeScript
-    - 🦕 Deno
     - 🐹 Golang
     - 🐝 Gin & Gorm
     - 📦 Go-zero
