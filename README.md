@@ -8,11 +8,10 @@
   
     - 📄 Vue
     - 📜 TypeScript
-    - 🐹 Golang
-    - 🐝 Gin & Gorm
-    - 📦 Go-zero
+    - ☕ Java
+    - 🍃 SpringBoot&SpringCloud
     - 🌐 Nginx 
-    - 📮 Kafka
+    - 📮 RabbitMQ
     - 📈 MySQL
     - 🔍 Redis
     - 📊 ElasticSearch
