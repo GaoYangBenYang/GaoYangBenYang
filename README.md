@@ -4,6 +4,22 @@
 
 - 📚 I’m currently learning
 
+- 👨‍🔧 Professional skill
+  
+    - 📄 Vue
+    - 📜 TypeScript
+    - ☕ Java
+    - 🍃 SpringBoot&SpringCloud
+    - 🌐 Nginx 
+    - 📮 RabbitMQ
+    - 📈 MySQL
+    - 🔍 Redis
+    - 📊 ElasticSearch
+    - 🐳 Docker
+    - 🕸️ Kubernetes
+    - 🐙 Git
+    - 🐧 Ubuntu
+
 - 📝 I regularly write articles on [gaoyangbenyang.github.io](gaoyangbenyang.github.io)
 
 - 📫 How to reach me **gaoyangbenyang@outlook.com**
