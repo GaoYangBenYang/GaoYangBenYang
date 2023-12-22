@@ -2,22 +2,30 @@
 
 # 👋 Hey friends!
 
-- 📚 I’m currently learning
+- 📚 I’m continuous learning
 
 - 👨‍🔧 Professional skill
-  
-    - 📄 Vue
+    
+  - Front end
+    - 📗 Vue
     - 📜 TypeScript
+    - 📰 Nodejs
+  - Back end
     - ☕ Java
-    - 🍃 SpringBoot&SpringCloud
-    - 🌐 Nginx 
-    - 📮 RabbitMQ
+    - 🍃 Spring、SpringBoot
+    - 🧩 SpringCloud Alibaba、Nacos、Fegin、Sentinel、Gateway、Seata
+  - Database
     - 📈 MySQL
     - 🔍 Redis
     - 📊 ElasticSearch
+  - MessageQueue
+    - 📮 RabbitMQ
+  - Container
     - 🐳 Docker
     - 🕸️ Kubernetes
+  - Other
     - 🐙 Git
+    - 🧵 Maven
     - 🐧 Ubuntu
 
 - 📝 I regularly write articles on [gaoyangbenyang.github.io](gaoyangbenyang.github.io)
