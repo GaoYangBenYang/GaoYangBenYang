@@ -12,7 +12,7 @@
     - 📰 Nodejs
   - Back end
     - ☕ Java
-    - 🍃 Spring、SpringBoot
+    - 🍃 Spring、SpringBoot、Mybatis
     - 🧩 SpringCloud Alibaba、Nacos、Fegin、Sentinel、Gateway、Seata
   - Database
     - 📈 MySQL
