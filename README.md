@@ -14,6 +14,7 @@
     - ☕ Java
     - 🍃 Spring、SpringBoot、Mybatis
     - 🧩 SpringCloud Alibaba、Nacos、Fegin、Sentinel、Gateway、Seata
+    - ⛵ Istio
   - Database
     - 📈 MySQL
     - 🔍 Redis
