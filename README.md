@@ -7,11 +7,11 @@
 - 👨‍🔧 Professional skill
     
   - Front end
-    - 📗 Vue
+    - 📗 Vue3、ElementUI-Plus、Vite
     - 📜 TypeScript
     - 📰 Nodejs
   - Back end
-    - ☕ Java
+    - ☕ Java、JVM
     - 🍃 Spring、SpringBoot、Mybatis
     - 🧩 SpringCloud Alibaba、Nacos、Fegin、Sentinel、Gateway、Seata
     - ⛵ Istio
