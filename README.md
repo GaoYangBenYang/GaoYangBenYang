@@ -5,7 +5,7 @@
 - 👨‍🔧 Professional skill
     
   - Front end
-    - 📗 Vue3、ElementUI-Plus、Vite
+    - 📗 Vue3、ElementUI-Plus、Tailwind CSS、Vite
     - 📜 TypeScript
     - 📰 Nodejs
   - Back end
@@ -18,6 +18,7 @@
     - 🔍 Redis
     - 📊 ElasticSearch
   - MessageQueue
+    - 📬 Kafka
     - 📮 RabbitMQ
   - Container
     - 🐳 Docker
