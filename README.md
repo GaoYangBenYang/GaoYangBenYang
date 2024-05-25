@@ -9,7 +9,7 @@
     - 📜 TypeScript
     - 📰 Nodejs
   - Back end
-    - ☕ Java、JVM
+    - ☕ Java、JVM、GraalVM
     - 🍃 Spring、SpringBoot、Mybatis
     - 🧩 SpringCloud Alibaba、Nacos、Fegin、Sentinel、Gateway、Seata
     - ⛵ Istio
